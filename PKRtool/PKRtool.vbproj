@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>PKRtool</RootNamespace>
+    <TargetFramework>net8.0</TargetFramework>
+	<RollForward>Major</RollForward>
+	<Company>ravenDS</Company>
+	<Authors>ravenDS</Authors>
+	<FileVersion>1.0.0.0</FileVersion>
+  </PropertyGroup>
+
+</Project>
